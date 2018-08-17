@@ -1,7 +1,7 @@
 {
-    "name": "gamerbit",
-    "version": "0.0.6",
-    "description": "Sparkfun gamer:bit blocks",
+    "name": "gamebit",
+    "version": "0.0.1",
+    "description": "ELECFREAKS game:bit blocks",
     "license": "MIT",
     "dependencies": {
         "core": "*"
